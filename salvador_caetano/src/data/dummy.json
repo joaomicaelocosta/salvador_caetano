@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "brand" : "Toyota",
+        "model" : "Auris",
+        "releaseDate" : "2000-01-05",
+        "units": 5
+    },
+    {
+        "id": 2,
+        "brand" : "Toyota",
+        "model" : "Corolla",
+        "releaseDate" : "2010-06-14",
+        "units": 15
+    },
+    {
+        "id": 3,
+        "brand" : "Toyota",
+        "model" : "RAV4",
+        "releaseDate" : "2002-07-20",
+        "units": 9
+    },
+    {
+        "id": 4,
+        "brand" : "Lexus",
+        "model" : "ux",
+        "releaseDate" : "2020-04-05",
+        "units": 3
+    },
+    {
+        "id": 5,
+        "brand" : "Lexus",
+        "model" : "es",
+        "releaseDate" : "2001-09-18",
+        "units": 9
+    },
+    {
+        "id": 6,
+        "brand" : "Hyundai",
+        "model" : "i20",
+        "releaseDate" : "2008-07-12",
+        "units": 11
+    },
+    {
+        "id": 7,
+        "brand" : "Hyundai",
+        "model" : "i30",
+        "releaseDate" : "2009-07-12",
+        "units": 9
+    }
+]
